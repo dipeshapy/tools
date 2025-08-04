@@ -57,11 +57,16 @@ A professional web-based image processing application built with Streamlit and P
 
 ## Usage
 
+### Local Development
 1. Open your web browser to the provided URL (typically http://localhost:8501)
 2. Select the desired processing tab
 3. Upload your image(s)
 4. Adjust settings as needed
 5. Process and download the results
+
+### Online Version
+You can access the deployed version of this application at:
+https://tools-dipeshapy.streamlit.app
 
 ## License
 
