@@ -69,7 +69,7 @@ MIT License
 
 ## Author
 
-[Your Name]
+~dipesh
 
 ## Contributing
 
